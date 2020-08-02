@@ -16,4 +16,5 @@ There is command line interface and a GUI interface for providing the color rang
 <li>Send Mail: Example script for using SMTP python library to send emails</li>
 <li>SQL example: Example script for using sqlite3 python library</li>
 <li>Word: web scraping script that gets the word of the day with its definition and displays it in the command line, with an option for saving it into a txt file</li>
+<li>XLtoML: transforms an excel file to html table</li>
 </ul>
